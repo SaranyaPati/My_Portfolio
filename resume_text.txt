@@ -1,0 +1,73 @@
+                 SAI SARANYA PATI 
+         CSE-AIDS Graduate , AP , India 
+                                      Gmail          Linkedin          GitHub          +91 7416707058 
+ 
+PROFESSIONAL SUMMARY 
+B.Tech Graduate in Computer Science and Engineering with Artificial Intelligence and Data Science with 
+hands-on experience in Machine Learning,Python, Django, and MySQL . Seeking an entry-level Software 
+Engineer role to leverage technical skills in building scalable web applications 
+ 
+SKILLS 
+Programming: Python | Object-Oriented Programming | Data Structures & Algorithms | Problem Solving 
+Backend & Web: Django REST Framework | RESTful API Development | React.js | HTML | CSS | 
+Bootstrap 
+Database: MySQL | SQL Queries | Database Management | CRUD Operations | Database Integration 
+AI/ML: Machine Learning | NumPy | Pandas | Scikit-learn | PyTorch | Keras | CNN | OpenCV | Large 
+Language Models 
+Software Engineering: Software Development | Software Design | Debugging | Code Optimization | SDLC | 
+Software Testing 
+Testing & Tools: Unit Testing | API Testing | Postman | Git | GitHub | VS Code 
+ 
+EXPERIENCE 
+Python Full Stack Trainee at Vcubes Institution               ​
+   ​
+            November 2025 - June 2026 
+●​ Developed and maintained a full-stack web application, Smart Career Planning Platform, using 
+Python, Django REST Framework, React.js and MySQL, implementing 10+ RESTful APIs. 
+●​ Designed and implemented backend modules for profile management, resume processing, career 
+recommendations and job management, following software development and API design principles. 
+●​ Developed reusable backend components and business logic for personalized career recommendations 
+based on user profiles and resumes. 
+●​ Optimized MySQL queries and database structures, improving API response time by approximately 
+30% and enhancing application performance. 
+●​ Performed unit testing, API testing, debugging and data validation, resolving integration issues to 
+improve application reliability. 
+Python and MySQL Trainee at Revature                                                         June 2025 - September 2025 
+●​ Completed an 11-week hands-on training in Python, SQL and Git, developing 50+ test cases and 
+database queries. 
+●​ Developed Python scripts using Object-Oriented Programming (OOP) for data validation and 
+automated testing across multiple use cases. 
+●​ Applied debugging and problem-solving techniques to troubleshoot application and database issues. 
+●​ Optimized SQL queries to improve execution efficiency and strengthened skills in database testing, 
+troubleshooting and version control.                     
+ 
+PROJECTS 
+Crop Disease Detection (Python | PyTorch | CNN | OpenCV | NumPy | Pandas | Scikit-learn) 
+●​ Developed a Python-based application that allows users to upload crop leaf images and identify 
+potential diseases. 
+●​ Implemented an end-to-end image processing and classification workflow using Python, OpenCV and 
+PyTorch. 
+●​ Developed reusable preprocessing components for image resizing, noise reduction, normalization 
+and contrast enhancement. 
+●​ Tested and validated the classification workflow on agricultural image datasets to ensure reliable 
+application performance. 
+Movie Recommendation System (Python | Flask | Pandas | NumPy | Scikit-learn) 
+●​ Developed a Python-based recommendation application using Flask, Pandas and Scikit-learn to 
+provide personalized movie recommendations. 
+
+●​ Implemented reusable data preprocessing, feature extraction and recommendation workflows using 
+cosine similarity. 
+●​ Developed backend functionality to process user requests, search movie data and return relevant 
+recommendations. 
+●​ Tested and debugged application components to ensure accurate recommendations and reliable user 
+interaction. 
+ 
+EDUCATION 
+Kakinada Institute of Engineering and Technology , Kakinada, AP, India                                     2021 - 2025​
+Bachelor Of Technology, CSE-AIDS - 7 .78 CGPA 
+ 
+CERTIFICATIONS 
+●​ Python Full Stack Course by Vcubes  
+●​ Intro & Advanced Python Certification by Edyst Platform 
+●​ Foundation of modern machine learning certification by IIITH 
+ 
